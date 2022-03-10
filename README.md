@@ -17,9 +17,8 @@
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- WebSite Freelancer - React.js
-- Iniciação Científica, Speaker Diarization, Pytho, keras, torch, tensorflow, Pyannote.
+- Site, Freelance - React.js
+- Iniciação Científica - Speaker Diarization, Python, keras, torch, tensorflow, Pyannote.
 
 ## 🌱 I'm currently learning
 
@@ -39,7 +38,6 @@
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
 
 </br>
