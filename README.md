@@ -22,10 +22,12 @@
 
 ## 🌱 I'm currently learning
 
-- React 
-- Deep Learning
+- Frontend - React 
+- Backend - typescript, node.js
+- Deep Learning 
 - Machine Learning
 - Data Sciencie  
+- Apache Kafka 
 
 ## 💼 Technical Skills
 
