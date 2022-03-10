@@ -18,7 +18,7 @@
 ## 🔭 I'm currently working on
 
 - Site, Freelance - React.js
-- Iniciação Científica - Speaker Diarization, Python, keras, torch, tensorflow, Pyannote.
+- Iniciação Científica, Speaker Diarization - Python, keras, torch, tensorflow, Pyannote.
 
 ## 🌱 I'm currently learning
 
