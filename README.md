@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📝 Latest Blog Posts
-
+* [Ṕyannote 1.1.0] (https://github.com/Gabrielk99/Tutorials/blob/main/Pyannote_publico.ipynb)
 
 
 ## 📈 GitHub Stats 
