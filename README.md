@@ -18,6 +18,8 @@
 ## 🔭 I'm currently working on
 
 - Site, Freelance - React.js
+- Geomarketing with data sciencie and machine learning at Geofusion
+## I worked with:
 - Iniciação Científica, Speaker Diarization - Python, keras, torch, tensorflow, Pyannote.
 
 ## 🌱 I'm currently learning
