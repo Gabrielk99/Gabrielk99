@@ -17,19 +17,16 @@
 
 ## 🔭 I'm currently working on
 
-- Site, Freelance - React.js
-- Geomarketing with data sciencie and machine learning at Geofusion
+- Data Science at Malwee
+  
 ## I worked with:
 - Iniciação Científica, Speaker Diarization - Python, keras, torch, tensorflow, Pyannote.
-
+- FullStack freelancer
+- Data Science at Geofusion, Geomarketing context.
+  
 ## 🌱 I'm currently learning
 
-- Frontend - React 
-- Backend - typescript, node.js
-- Deep Learning 
-- Machine Learning
-- Data Sciencie  
-- Apache Kafka 
+- IA and Data Science stacks skills
 
 ## 💼 Technical Skills
 
