@@ -15,10 +15,6 @@
 </br>
 - 💬 Qualquer duvida, ou necessidade de contato, pode enviar uma mensagem em alguma dessas redes sociais.
 
-## 🔭 I'm currently working on
-
-- Data Science at Malwee
-  
 ## I worked with:
 - Iniciação Científica, Speaker Diarization - Python, keras, torch, tensorflow, Pyannote.
 - FullStack freelancer
