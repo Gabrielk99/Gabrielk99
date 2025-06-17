@@ -22,7 +22,7 @@
   
 ## 🌱 I'm currently learning
 
-- IA and Data Science stacks skills
+- AI and Data Science stacks skills
 
 ## 💼 Technical Skills
 
