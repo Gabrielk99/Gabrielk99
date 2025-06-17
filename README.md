@@ -16,9 +16,9 @@
 - 💬 Qualquer duvida, ou necessidade de contato, pode enviar uma mensagem em alguma dessas redes sociais.
 
 ## I worked with:
-- Iniciação Científica, Speaker Diarization - Python, keras, torch, tensorflow, Pyannote.
+- Speaker Diarization - Python, keras, torch, tensorflow, Pyannote.
 - FullStack freelancer
-- Data Science at Geofusion, Geomarketing context.
+- Data Science 
   
 ## 🌱 I'm currently learning
 
